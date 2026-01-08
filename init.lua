@@ -169,6 +169,12 @@ vim.o.confirm = true
 -- auto save
 vim.o.autowriteall = true
 
+-- tab width
+vim.o.tabstop = 2
+vim.o.shiftwidth = 2
+-- tabs as spaces
+vim.o.expandtab = true
+
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
