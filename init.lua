@@ -971,13 +971,7 @@ require('lazy').setup({
         'tsx',
         'powershell',
         'html',
-        'git_config',
-        'git_rebase',
-        'gitcommit',
-        'gitignore',
         'css',
-        'bash',
-        'diff',
         'vim',
         'vimdoc',
       }
