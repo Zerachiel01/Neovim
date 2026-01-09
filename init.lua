@@ -710,6 +710,8 @@ require('lazy').setup({
             },
           },
         },
+        ts_ls = {}, -- adds language server for javascript and typescript
+        csharp_ls = {}, -- adds language server for c#
       }
 
       -- Ensure the servers and tools above are installed
